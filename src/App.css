@@ -44,6 +44,7 @@
   border: 2px solid black;
   border-radius: 5px;
   margin: auto;
+  background-color: #282c3481;
 }
 
 .img-wrapper img {
@@ -52,11 +53,13 @@
   margin: 5px;
   top: 5px;
   position: relative;
+  border-radius: 10px;
 }
 
 .text-wrapper {
   padding-top: 25px;
   font-size: 20px;
+  color: white;
 }
 
 .btn-wrapper button {
@@ -82,4 +85,15 @@
   top: 5px;
 }
 
+.cart-num {
+  background-color: #006aff;
+  border-radius: 28px;
+  width: 22px;
+  color: white;
+  right: 19px;
+  z-index: 1;
+  position: absolute;
+  top: 20px;
+  padding: 1px;
+}
 /*  */
