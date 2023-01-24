@@ -2,7 +2,7 @@
   "name": "my-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Harsh-Fit.github.io/React-Redux-Deployment",
+  "homepage": "http://Harsh-Fit.github.io/shopcart-deployment",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
